@@ -2,7 +2,7 @@
 - 👀 I’m interested in studying
 - 🌱 I’m currently learning website developing
 - 💞️ I’m looking to collaborate on -----
-- 📫 How to reach me via email or discord (el peso#8857)
+- 📫 How to reach me via email (santerip55@gmail.com) or discord (el peso#8857)
 
 <!---
 santeripesonen/santeripesonen is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
